@@ -1,6 +1,6 @@
 # Hello, Hi, Eshwar here
 
-Interested and working on blockchain development and iot/embedded systems and web3. Skimmed a little bit in web, app and fullstack dev. Also interested in System and cli dev
+Interested and working on blockchain development and iot/embedded systems and web3.A little bit in web, app and fullstack dev. Also interested in System and cli dev
 
 # Statistics
 [![GitHub Streak](https://streak-stats.demolab.com?user=eshwar4202&theme=dracula&hide_border=true&mode=weekly)](https://git.io/streak-stats)
