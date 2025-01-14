@@ -55,8 +55,8 @@ Interested and working on blockchain development and iot/embedded systems and we
     </div>
     </div>
     
-
-    
+<br></br>   
+<br></br>
 
 # Statistics
 <div align="center">
