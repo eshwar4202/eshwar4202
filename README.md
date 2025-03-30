@@ -1,10 +1,10 @@
 # Hello, Hi, Welcome, Eshwar here
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FFFFFF&center=true&width=500&lines=Decode+the+following+text; alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FFFFFF&center=true&width=500&lines=Decode+the+following+text;0+1+0+-+0+1+1 alt="Typing SVG" />
 </div>
 
-I have no awesome stuff here (except this README file that I copied from random people from my clg) but anyways, 
+I have no awesome stuff here (except this README file that I copied from random people from my clg) but anyways,
 Interested and currently working on blockchain and iot/embedded systems and web3 projects. Also interested in System and cli engineering
 
 <h2 align="center"> Tech Stack and Tools </h2>
