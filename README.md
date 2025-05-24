@@ -1,7 +1,7 @@
 # Hello, Hi, Welcome, Eshwar here
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FFFFFF&center=true&width=500&lines=Decode+the+following+text;1+0+-+0+0+-+1+1+0+-+1+1+0+-+0+1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FFFFFF&center=true&width=500&lines=random+text" alt="Typing SVG" />
 </div>
 
 
