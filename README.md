@@ -63,8 +63,7 @@ Interested and currently working on blockchain and iot/embedded systems and web3
 <div align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshwar4202&theme=react-dark" alt="Github Activity Graph" />
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=eshwar4202&theme=dracula&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=eshwar4202)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eshwar4202&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="150">
