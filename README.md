@@ -1,4 +1,4 @@
-# Hehe
+# TEXT
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FFFFFF&center=true&width=500&lines=random+text" alt="Typing SVG" />
