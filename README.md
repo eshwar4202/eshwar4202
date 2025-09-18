@@ -64,8 +64,4 @@ Interested and currently working on blockchain and iot/embedded systems and web3
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshwar4202&theme=react-dark" alt="Github Activity Graph" />
 </div>
 
-<div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshwar4202)](https://github.com/anuraghazra/github-readme-stats)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshwar4202&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="150">
-</div>
 
