@@ -1,11 +1,11 @@
-# TEXT
+# profile
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FFFFFF&center=true&width=500&lines=random+text" alt="Typing SVG" />
 </div>
 
 
-Interested and currently working on blockchain and iot/embedded systems and web3 projects. Also interested in System and cli engineering
+Interested and currently working on blockchain, iot/embedded systems and web3 projects. Also interested in System and cli engineering
 
 <h2 align="center"> Tech Stack and Tools </h2>
 <div align="center">
